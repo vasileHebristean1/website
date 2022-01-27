@@ -1,3 +1,3 @@
 Personal Website
 
-Preview: https://vasilehebristean1.github.io/website
+[Preview] (https://vasilehebristean1.github.io/website)
